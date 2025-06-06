@@ -1,0 +1,16 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  padding: 20px
+}
+
+.login-row {
+  padding: 10px;
+  background: rgb(238, 238, 238);
+  display: flex;
+}
+
+.login-row label{
+  padding-right: 10px;
+}
